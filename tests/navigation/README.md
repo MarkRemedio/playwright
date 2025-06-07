@@ -1,0 +1,1 @@
+- all tests here are only for navigation within the app. this includes navigation to places optionally available based on permission.

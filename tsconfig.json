@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "module": "ESNext",   // Use ES module syntax (ESM)
+      "target": "ES6",      // Target ECMAScript 6 (or higher)
+      "moduleResolution": "node",  // Module resolution strategy
+      "esModuleInterop": true,    // Enable interoperability between CommonJS and ES Modules
+      "strict": true,       // Enable all strict type-checking options
+      "skipLibCheck": true  // Skip type checking of declaration files for faster builds
+    },
+    "include": ["**/*.ts"]
+  }
